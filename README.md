@@ -1,4 +1,4 @@
-Quake Report App
+Earthquake App
 ===================================
 
 This app displays a list of earthquakes in the world
